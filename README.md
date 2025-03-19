@@ -17,9 +17,9 @@ Before diving into the darknet, it's essential to understand the tools and preca
 | Market Name       | Onion URL                                                                 |
 |-------------------|---------------------------------------------------------------------------|
 | Nexus Market      | http://nexusafejew45osqaawl2xqjwmincsfvjwuwtm2fums2kjeon7tbmlid.onion     |
-| Abacus Market     | https://abacusborncrffug2ytuqx3fczqbou4mrev56pfliv7ipjfi4uib7cad.onion    |
-| TorZon Market     | https://torzon4xtq5x2im3p2y36jdrk2jlsakxmrellcvhzcf5iswzgt7onsad.onion   |
-| Ares Market       | https://aresbuy2pgeaolftrbhcxlsbg5qw35wer77h45egg4omainek2gtpxid.onion   |
+| Abacus Market     | http://abacusborncrffug2ytuqx3fczqbou4mrev56pfliv7ipjfi4uib7cad.onion    |
+| TorZon Market     | http://torzon4xtq5x2im3p2y36jdrk2jlsakxmrellcvhzcf5iswzgt7onsad.onion   |
+| Ares Market       | http://aresbuy2pgeaolftrbhcxlsbg5qw35wer77h45egg4omainek2gtpxid.onion   |
 
 <img src='https://i.kym-cdn.com/entries/icons/original/000/023/474/Darknet.jpg' alt='Darknet Concept' width='800'/>
 
